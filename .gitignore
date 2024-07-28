@@ -1,0 +1,8 @@
+**/node_modules/**
+info.txt
+**/*-lock.json
+*-lock.json
+/APIs/
+**/*.zip
+**/.env
+**/!*.exemple

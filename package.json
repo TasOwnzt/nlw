@@ -1,0 +1,18 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "scripts": {
+  	"journey": "cd ./journey/front/ && npm run dev"
+  },
+  "keywords": [
+  	"nlw",
+  	"neverstoplearning",
+  	"rocketseat"
+  ],
+  "author": "TasOwnzt",
+  "license": "UNLICENSED",
+  "description": "",
+  "workspaces": [
+    "journey/front"
+  ]
+}
